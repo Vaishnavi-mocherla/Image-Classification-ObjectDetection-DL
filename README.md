@@ -51,5 +51,5 @@ The notebook will process each frame in the video, draw bounding boxes, and save
 - **README.md**: Project overview and setup instructions.
 - **.gitignore**: Excludes unnecessary files from the repository.
 
-"""
+
 
