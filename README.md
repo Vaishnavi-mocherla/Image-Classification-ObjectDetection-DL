@@ -1,4 +1,4 @@
-# Image Classification and Object Detection 
+# Video Object Detection 
 
 This project consists of multiple notebooks demonstrating machine learning and computer vision techniques, using PyTorch, YOLO from Ultralytics, and the Kaggle API for dataset access. Each notebook covers specific tasks such as model training, evaluation, and object detection in images and videos.
 
