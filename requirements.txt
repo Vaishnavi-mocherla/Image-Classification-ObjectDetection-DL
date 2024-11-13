@@ -1,0 +1,10 @@
+requirements_content = """
+torch
+torchvision
+scikit-learn
+numpy
+kaggle
+ultralytics
+opencv-python
+Pillow
+"""
